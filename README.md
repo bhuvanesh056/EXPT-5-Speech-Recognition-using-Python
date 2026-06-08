@@ -9,8 +9,11 @@ PC installed with SCILAB.
 
 # PROGRAM: 
 
+<img width="1092" height="641" alt="image" src="https://github.com/user-attachments/assets/607f97e4-771c-4ddc-88eb-b13108eefdcf" />
+
 
 # OUTPUT: 
+<img width="1272" height="437" alt="image" src="https://github.com/user-attachments/assets/df5eb820-8e1c-41c0-9e77-a73061926569" />
 
 
 # RESULT: 
