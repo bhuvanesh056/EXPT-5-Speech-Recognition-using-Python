@@ -16,5 +16,8 @@ PC installed with SCILAB.
 <img width="1272" height="437" alt="image" src="https://github.com/user-attachments/assets/df5eb820-8e1c-41c0-9e77-a73061926569" />
 
 
+
+
 # RESULT: 
 Thus the speech recognition using SCILAB was performed and verified.
+
